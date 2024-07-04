@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-weight: 440;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    padding: 40px;
+}
+
+.content {
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.397);
+}
+
+.content h3 {
+    margin-bottom: 10px;
+}
+
+.pass {
+    background-color: #2d75c6;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+    margin: 2vh 0;
+    margin-bottom: 0;
+}
